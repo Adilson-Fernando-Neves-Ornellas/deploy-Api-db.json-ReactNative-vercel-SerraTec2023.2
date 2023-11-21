@@ -101,6 +101,30 @@
           "img": "https://static3.tcdn.com.br/img/img_prod/460977/action_figure_peter_parker_tobey_maguire_spider_man_homem_aranha_escala_1_6_thunder_toys_estilo_hot__116361_1_8613665f246ff256c076effb59ff099f.jpg",
           "forca": 8,
           "defesa": 9
+        },
+        {
+          "id": 5,
+          "nome": "Hulk",
+          "descrição": "Dr. Bruce Banner quando enfurecido se torna o Hulk.",
+          "img": "https://t.ctcdn.com.br/5bU4_4Zvdqn2gkI3z-VYo_JhEHQ=/1245x700/smart/i632776.jpeg",
+          "forca": 10,
+          "defesa": 6
+        },
+        {
+          "id": 7,
+          "nome": "Pantera Negra",
+          "descrição": "Rei de Wakanda com habilidades aprimoradas.",
+          "img": "https://s2.glbimg.com/OJk8qbDSDKX3dy87lAlFUQrLGCA=/e.glbimg.com/og/ed/f/original/2018/02/15/pantera-negra-filme.jpg",
+          "forca": 8,
+          "defesa": 8
+        },
+        {
+          "id": 3,
+          "nome": "Capitão América",
+          "descrição": "Líder dos Vingadores e símbolo da liberdade.",
+          "img": "https://t.ctcdn.com.br/1o6mRVs2guAZAVNn_RxwGAcZvP4=/1024x576/smart/i604548.jpeg",
+          "forca": 8,
+          "defesa": 7
         }
       ]
     }
