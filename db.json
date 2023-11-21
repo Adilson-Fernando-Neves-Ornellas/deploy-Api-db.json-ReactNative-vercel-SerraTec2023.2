@@ -91,6 +91,7 @@
   ],
   "teamHerois": [
     {
+      "id":1,
       "idUsuario": 1,
       "herois":[
         {
