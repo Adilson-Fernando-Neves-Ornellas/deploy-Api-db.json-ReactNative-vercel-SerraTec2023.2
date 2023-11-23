@@ -92,7 +92,7 @@
       "id": 11,
       "nome": "Noturno",
       "descrição": "Traje que lhe permite encolher ou crescer de tamanho, além de voar.",
-      "img": "https://i.pinimg.com/originals/6c/45/9e/6c459ebdc8c9bc2a154f35e8b430c43e.png",
+      "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/7/7e/Noturno_%28Marvel_Comics%29.jpg/250px-Noturno_%28Marvel_Comics%29.jpg",
       "forca": 6,
       "defesa": 8
     },
@@ -109,7 +109,7 @@
       "nome": "Flash",
       "descrição": "Super-velocidade, símbolo da esperança.",
       "img": "https://www.fortressofsolitude.co.za/wp-content/uploads/2023/05/15-Best-Flash-Comic-Books-Get-Your-Fix-of-the-Scarlet-Speedster-1140x639.jpg",
-      "forca": 6,
+      "forca": 7,
       "defesa": 9
     },
     {
