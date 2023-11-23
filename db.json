@@ -84,9 +84,41 @@
       "id": 10,
       "nome": "Vespa",
       "descrição": "Traje que lhe permite encolher ou crescer de tamanho.",
-      "img": "https://wallpapercave.com/wp/wp5342726.jpg",
+      "img": "https://i.pinimg.com/736x/b6/c0/9a/b6c09af826ab9b08691f051d58cc5bb4.jpg",
       "forca": 6,
       "defesa": 6
+    },
+    {
+      "id": 11,
+      "nome": "Noturno",
+      "descrição": "Traje que lhe permite encolher ou crescer de tamanho, além de voar.",
+      "img": "https://i.pinimg.com/originals/6c/45/9e/6c459ebdc8c9bc2a154f35e8b430c43e.png",
+      "forca": 6,
+      "defesa": 8
+    },
+    {
+      "id": 12,
+      "nome": "Batman",
+      "descrição": "inteligente, milionário, vingador, justiceiro.",
+      "img": "https://t.ctcdn.com.br/BzM1VnLdu9AlmhFzuVhgwcxQ8d4=/1200x675/smart/i807387.jpeg",
+      "forca": 7,
+      "defesa": 6
+    },
+    {
+      "id": 13,
+      "nome": "Flash",
+      "descrição": "super-velocidade, símbolo da esperança.",
+      "img": "https://www.fortressofsolitude.co.za/wp-content/uploads/2023/05/15-Best-Flash-Comic-Books-Get-Your-Fix-of-the-Scarlet-Speedster-1140x639.jpg",
+      "forca": 6,
+      "defesa": 9
+    },
+    {
+      "id": 14,
+      "nome": "Gavião Arqueiro",
+      "descrição": "atirador de precisão, mentor.",
+      "img": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/Thunderbolts_Vol_4_1_Trading_Card_Variant_Textless.jpg/revision/latest/scale-to-width-down/1000?cb=20220622131243",
+      "forca": 5,
+      "defesa": 7
     }
   ],
   "teamHerois": [
