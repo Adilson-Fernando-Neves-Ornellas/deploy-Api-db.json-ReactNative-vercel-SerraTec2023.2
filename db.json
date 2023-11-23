@@ -99,7 +99,7 @@
     {
       "id": 12,
       "nome": "Batman",
-      "descrição": "inteligente, milionário, vingador, justiceiro.",
+      "descrição": "Inteligente, milionário, vingador, justiceiro.",
       "img": "https://t.ctcdn.com.br/BzM1VnLdu9AlmhFzuVhgwcxQ8d4=/1200x675/smart/i807387.jpeg",
       "forca": 7,
       "defesa": 6
@@ -107,7 +107,7 @@
     {
       "id": 13,
       "nome": "Flash",
-      "descrição": "super-velocidade, símbolo da esperança.",
+      "descrição": "Super-velocidade, símbolo da esperança.",
       "img": "https://www.fortressofsolitude.co.za/wp-content/uploads/2023/05/15-Best-Flash-Comic-Books-Get-Your-Fix-of-the-Scarlet-Speedster-1140x639.jpg",
       "forca": 6,
       "defesa": 9
@@ -115,8 +115,8 @@
     {
       "id": 14,
       "nome": "Gavião Arqueiro",
-      "descrição": "atirador de precisão, mentor.",
-      "img": "https://static.wikia.nocookie.net/marveldatabase/images/6/6c/Thunderbolts_Vol_4_1_Trading_Card_Variant_Textless.jpg/revision/latest/scale-to-width-down/1000?cb=20220622131243",
+      "descrição": "Atirador de precisão, mentor.",
+      "img": "https://www.hqzona.com.br/wp-content/uploads/2021/11/clint-barton-guia-de-leitura-1-768x447.png",
       "forca": 5,
       "defesa": 7
     }
