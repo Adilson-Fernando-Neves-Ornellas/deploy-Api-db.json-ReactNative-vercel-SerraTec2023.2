@@ -24,7 +24,7 @@ server.use(jsonServer.rewriter({
     '/blog/:resource/:id/show': '/:resource/:id'
 }))
 server.use(router)
-server.listen(50000, () => {
+server.listen(85000, () => {
     console.log('JSON Server is running')
 })
 
