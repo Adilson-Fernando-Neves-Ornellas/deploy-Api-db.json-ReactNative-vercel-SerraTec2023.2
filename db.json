@@ -143,34 +143,56 @@
         {
           "id": 1,
           "nome": "Homem-Aranha",
-          "descrição": "Peter Parker, o espetacular Homem-Aranha, luta contra o crime em Nova York.",
-          "img": "https://static3.tcdn.com.br/img/img_prod/460977/action_figure_peter_parker_tobey_maguire_spider_man_homem_aranha_escala_1_6_thunder_toys_estilo_hot__116361_1_8613665f246ff256c076effb59ff099f.jpg",
+          "descrição": "Super-força, velocidade, agilidade e sentido aranha.",
+          "img": "https://cdn.awsli.com.br/2500x2500/1610/1610163/produto/177684974/poster-o-espetacular-homem-aranha-2-g-ebc6cbb4.jpg",
+          "gif":"https://i.gifer.com/2jgk.gif",
           "forca": 8,
           "defesa": 9
         },
         {
-          "id": 5,
-          "nome": "Hulk",
-          "descrição": "Dr. Bruce Banner quando enfurecido se torna o Hulk.",
-          "img": "https://t.ctcdn.com.br/5bU4_4Zvdqn2gkI3z-VYo_JhEHQ=/1245x700/smart/i632776.jpeg",
-          "forca": 10,
-          "defesa": 6
+          "id": 8,
+          "nome": "Doutor Estranho",
+          "descrição": "Habilidades mágicas que lhe permitem manipular a realidade.",
+          "img": "https://static.wikia.nocookie.net/universocinematograficomarvel/images/d/d9/Doctor_Strange_AIW_Profile.jpg/revision/latest?cb=20190117232323&path-prefix=pt",
+          "gif":"https://cdn.dribbble.com/users/1910217/screenshots/5383222/doctor-strange.gif",
+          "forca": 7,
+          "defesa": 7
         },
         {
-          "id": 7,
-          "nome": "Pantera Negra",
-          "descrição": "Rei de Wakanda com habilidades aprimoradas.",
-          "img": "https://s2.glbimg.com/OJk8qbDSDKX3dy87lAlFUQrLGCA=/e.glbimg.com/og/ed/f/original/2018/02/15/pantera-negra-filme.jpg",
-          "forca": 8,
+          "id": 11,
+          "nome": "Noturno",
+          "descrição": "Traje que lhe permite encolher ou crescer de tamanho, além de voar.",
+          "img": "https://upload.wikimedia.org/wikipedia/pt/thumb/7/7e/Noturno_%28Marvel_Comics%29.jpg/250px-Noturno_%28Marvel_Comics%29.jpg",
+          "gif":"https://images.gr-assets.com/hostedimages/1570370656ra/28253118.gif",
+          "forca": 6,
           "defesa": 8
         },
         {
-          "id": 3,
-          "nome": "Capitão América",
-          "descrição": "Líder dos Vingadores e símbolo da liberdade.",
-          "img": "https://t.ctcdn.com.br/1o6mRVs2guAZAVNn_RxwGAcZvP4=/1024x576/smart/i604548.jpeg",
-          "forca": 8,
-          "defesa": 7
+          "id": 13,
+          "nome": "Flash",
+          "descrição": "Super-velocidade, símbolo da esperança.",
+          "img": "https://www.fortressofsolitude.co.za/wp-content/uploads/2023/05/15-Best-Flash-Comic-Books-Get-Your-Fix-of-the-Scarlet-Speedster-1140x639.jpg",
+          "gif":"https://gifdb.com/images/high/comic-superhero-flash-running-rogv4sq7d5tlc1ub.gif",
+          "forca": 7,
+          "defesa": 9
+        },
+        {
+          "id": 12,
+          "nome": "Batman",
+          "descrição": "Inteligente, milionário, vingador, justiceiro.",
+          "img": "https://t.ctcdn.com.br/BzM1VnLdu9AlmhFzuVhgwcxQ8d4=/1200x675/smart/i807387.jpeg",
+          "gif":"https://pa1.aminoapps.com/6518/0e1be36288007ef5cddd8d82ce7766e73c1fa139_hq.gif",
+          "forca": 7,
+          "defesa": 6
+        },
+        {
+          "id": 2,
+          "nome": "Homem de Ferro",
+          "descrição": "Armadura de alta tecnologia com força, velocidade e poder de fogo.",
+          "img": "https://i.pinimg.com/564x/82/b4/40/82b4408bde13a8731a86fc0c2d33912d.jpg",
+          "gif":"https://media.tumblr.com/tumblr_maxi2vBQak1rxuevf.gif",
+          "forca": 9,
+          "defesa": 9
         }
       ]
     }
